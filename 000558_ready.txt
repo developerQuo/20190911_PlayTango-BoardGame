@@ -1,0 +1,7 @@
+wordcard,none,0,
+wordcard,min,3021,
+wordcard,max,3100,
+match,ko,1,/bb_contents/000558/police1.mp3,
+mismatch,ko,1,/bb_contents/000558/police_notmatching1.mp3,
+match,en,1,/bb_contents/000558/police1_en.mp3,
+mismatch,en,1,/bb_contents/000558/police_notmatching1_en.mp3,
