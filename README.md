@@ -4,7 +4,7 @@
 ### 메인 화면
 ***
 <p align="center">
-<img src="/img/main화면.JPG" width="60%" height="40%" title="메인"></img>
+<img src="/img/main화면.JPG" width="30%" height="20%" title="메인"></img>
 </p>   
 
 ### 놀이판 기본 화면
